@@ -37,4 +37,18 @@ export const projectData = [
       'React app that takes in a name and predict nationality using https://nationalize.io/ public API',
     gitHubRepo: 'https://github.com/Silva3012/nationality',
   },
+  {
+    id: 6,
+    title: 'Stockify Frontend',
+    description:
+        'A full stack app to manage stocks using https://www.stockdata.org/ public API (This is the frontend code)',
+    gitHubRepo: 'https://github.com/Silva3012/stockify_frontend',
+  },
+  {
+    id: 7,
+    title: 'Stockify Backend',
+    description:
+        'A full stack app to manage stocks using https://www.stockdata.org/ public API (This is the backend code)',
+    gitHubRepo: 'https://github.com/Silva3012/stockify_backend',
+  },
 ];
